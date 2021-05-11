@@ -9,4 +9,5 @@ c) Test the hypothesis that “Popularity of films increases”.
 
 To test the hypothesis consider following:
   i. Population standard deviation is known.
+  
   ii. Population standard deviation is unknown
